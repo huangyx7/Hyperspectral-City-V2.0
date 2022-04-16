@@ -1,5 +1,8 @@
 # Hyperspectral City V2.0
 
+## Download
+https://pbdl-ws.github.io/pbdl2021/challenge/download.html
+
 ## Read Hyperspectral Cubic Data
 In the dataset package, you will find a MATLAB file named *readHSD.m*, which is the MATLAB code to read the hyperspectral data. The data format is similar as RGB images, the different is the file has 128 channels rather than 3 channels.
 
