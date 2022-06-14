@@ -19,8 +19,10 @@ They are:
 4. Visualization of the semantic labelling by overlay with the RGB image. 
 
 The $* $ is the image index.
+
 ### Test
 In the __test__ folder, you will find all images, each of which is named with an index. In the folder, you will find four files for each image, which is the same as training set.
+
 ### Val
 In the __val__ folder, you will find three files for each image, which are:
 
